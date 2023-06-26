@@ -1,3 +1,9 @@
 .barra_superior{
     display: flex;
+    background-color: whitesmoke;
 } 
+
+.botones_nav{
+    display: flex;
+    justify-content: right;
+}
